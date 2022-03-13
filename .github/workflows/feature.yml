@@ -2,7 +2,7 @@ name: Publish NPM Module from feature branch
 on:
   push:
     branches-ignore:
-      - "main"
+      - 'main'
 jobs:
   run-release:
     runs-on: ubuntu-latest
@@ -17,12 +17,12 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-          registry-url: "https://registry.npmjs.org"
-      - name: Install & release
-        run: |
-          yarn install
-      - name: Semantic Release
-        uses: cycjimmy/semantic-release-action@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          registry-url: 'https://registry.npmjs.org'
+      # - name: Install & release
+      #   run: |
+      #     yarn install
+      # - name: Semantic Release
+      #   uses: cycjimmy/semantic-release-action@v2
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
