@@ -37,3 +37,7 @@ If we are getting the error below, we can add the file into `.eslintignore`.
 The file does not match your project config: .eslintrc.js.
 The file must be included in at least one of the projects provided
 ```
+
+## Other things
+
+If you like this config, checkout [](https://www.npmjs.com/package/eslint-config-mdh-typescript-backend) for backend code🛸🛸🛸
