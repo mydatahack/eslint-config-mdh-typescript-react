@@ -1,3 +1,5 @@
+## [1.0.1](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.0.0...v1.0.1) (2022-03-13)
+
 # 1.0.0 (2022-03-13)
 
 
