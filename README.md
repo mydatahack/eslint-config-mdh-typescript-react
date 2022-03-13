@@ -40,4 +40,4 @@ The file must be included in at least one of the projects provided
 
 ## Other things
 
-If you like this config, checkout [](https://www.npmjs.com/package/eslint-config-mdh-typescript-backend) for backend code🛸🛸🛸
+If you like this config, checkout [eslint-config-mdh-typescript-backend](https://www.npmjs.com/package/eslint-config-mdh-typescript-backend) for backend code🛸🛸🛸
