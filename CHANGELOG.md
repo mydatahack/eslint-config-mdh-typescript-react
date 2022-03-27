@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.1.0...v1.2.0) (2022-03-27)
+
+
+### Features
+
+* **dependencies:** move prettier and pretty-quick to dependencies from devDependencies ([ffb289a](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/ffb289acd8bf6474a92520130ee1062dda3c2e6d))
+* **troubleshooting:** merged and then trying to get the ci running ([e0aaead](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/e0aaead4e54c387865c7bf359b9e1151539c6f35))
+
 # [1.1.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.0.2...v1.1.0) (2022-03-27)
 
 
