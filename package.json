@@ -37,7 +37,7 @@
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
-    "eslint-plugin-mdh": "file:./eslint-rules"
+    "eslint-plugin-mdh": "file:./node_modules/eslint-config-mdh-typescript-react/eslint-rules"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^16.2.1",
