@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.0.2...v1.1.0) (2022-03-27)
+
+
+### Bug Fixes
+
+* **fix:** update the file path for local eslint-rule ([93be113](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/93be1138a24cafd1253aaf04b901a63ea8ae25e7))
+* **test:** troubleshooting reverting to the same setup ([5f9af2a](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/5f9af2abde107497d6bc3e9500f7cdaca3b99b48))
+
+
+### Features
+
+* **fix:** update eslint-plugin-mdh path ([695493e](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/695493e36df17a4ad52db238b7feab1fad2d3b08))
+
 ## [1.0.2](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.0.1...v1.0.2) (2022-03-13)
 
 ## [1.0.1](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.0.0...v1.0.1) (2022-03-13)
