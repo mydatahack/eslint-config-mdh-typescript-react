@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.2.0...v1.3.0) (2022-03-28)
+
+
+### Features
+
+* **module:** include eslint so that app doesn't need to install it ([a53c610](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/a53c610d3cb69fbeb8553c344acfbb2cae0f60c1))
+
 # [1.2.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.1.0...v1.2.0) (2022-03-27)
 
 
