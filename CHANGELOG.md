@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.3.0...v1.4.0) (2022-08-11)
+
+
+### Features
+
+* **eslint:** externalise custom mdh eslint rule ([2313d0a](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/2313d0a9b9249837d82f8136ee3c56e5841c3c10))
+
 # [1.3.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.2.0...v1.3.0) (2022-03-28)
 
 
