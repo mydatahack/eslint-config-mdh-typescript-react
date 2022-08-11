@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.0...v1.4.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* **eslint:** remove lint-rule folder from the project ([c8f5db0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/c8f5db03398e22007b84602f77d00658f258a9ec))
+
 # [1.4.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.3.0...v1.4.0) (2022-08-11)
 
 
