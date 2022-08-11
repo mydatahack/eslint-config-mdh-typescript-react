@@ -39,13 +39,13 @@ const eslint = {
     'import',
     'jsx-a11y',
     'simple-import-sort',
-    'mdh',
+    'eslint-plugin-mdh-react',
   ],
   rules: {
-    'mdh/ban-parse-float': 2,
-    'mdh/force-typed-api-requests': 2,
-    'mdh/ban-raw-apollo-use-subscription': 2,
-    'mdh/styled-components-naming': 2,
+    'eslint-plugin-mdh-react/ban-parse-float': 2,
+    'eslint-plugin-mdh-react/force-typed-api-requests': 2,
+    'eslint-plugin-mdh-react/ban-raw-apollo-use-subscription': 2,
+    'eslint-plugin-mdh-react/styled-components-naming': 2,
     'react/react-in-jsx-scope': 0,
     // note we must disable the base rule as it can report incorrect errors
     'no-use-before-define': 'off',
