@@ -1893,10 +1893,10 @@ eslint-plugin-jsx-a11y@^6.5.1:
     language-tags "^1.0.5"
     minimatch "^3.0.4"
 
-eslint-plugin-mdh-react@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-mdh-react/-/eslint-plugin-mdh-react-1.0.0.tgz#d4c4b52500431929a5bc68dd14b468a90698a7cf"
-  integrity sha512-Xx0S/YyVKiVHGkF6EgXzpoiLmsXuEhadW2GluRxmwfv5dWMPRqFDiXcJSkg9EKuxHijysspOsGIfLbIW2hjazA==
+eslint-plugin-mdh-react@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-mdh-react/-/eslint-plugin-mdh-react-1.0.1.tgz#e7c75778b6986641fd19f81fe768af19ada91376"
+  integrity sha512-NUJCJ11bp7MBVihcWpDVfViDC39ZHvjCgOr1PYv/tedViK2apdDCgHMQKywtA3FUZzun/vyHSOh7O4ynN4nW+g==
 
 eslint-plugin-prettier@^4.0.0:
   version "4.0.0"
