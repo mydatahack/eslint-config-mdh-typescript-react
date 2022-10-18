@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.1...v1.4.2) (2022-10-18)
+
+
+### Bug Fixes
+
+* **dependencies:** update eslint rule dependency package patch version ([c8c83bc](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/c8c83bc5483f73f5f16d85b5bb317471b5e05bb2))
+
 ## [1.4.1](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.0...v1.4.1) (2022-08-11)
 
 
