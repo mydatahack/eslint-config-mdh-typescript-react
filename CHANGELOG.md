@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.3...v1.5.0) (2022-10-18)
+
+
+### Features
+
+* **rule:** remove eslint-plugin-mdh-react ([7e4a8d5](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/7e4a8d582aa4b42d148d93dffac8bf402065f033))
+
 ## [1.4.3](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.2...v1.4.3) (2022-10-18)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mdh-typescript-react",
-  "version": "1.4.3",
+  "version": "1.5.0",
   "description": "eslint config for TypeScript React",
   "keywords": [
     "eslint",
