@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.2...v1.4.3) (2022-10-18)
+
+
+### Bug Fixes
+
+* **rules:** remove styled component name rule ([12ea63c](https://github.com/mydatahack/eslint-config-mdh-typescript-react/commit/12ea63c071e739e8ff4b9229d7276d2006504921))
+
 ## [1.4.2](https://github.com/mydatahack/eslint-config-mdh-typescript-react/compare/v1.4.1...v1.4.2) (2022-10-18)
 
 
